@@ -1,0 +1,17 @@
+{
+  "name": "superpath",
+  "version": "1.0.0",
+  "description": "Path module to use env variables in strings/paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paths",
+    "env",
+    "environment-variables",
+    "strings"
+  ],
+  "author": "Jan Börner",
+  "license": "ISC"
+}
